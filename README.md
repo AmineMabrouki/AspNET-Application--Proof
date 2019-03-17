@@ -1,2 +1,2 @@
 # AspNET
-Simple Application using AspNET
+online examiniation is a Simple web Application using AspNET 
